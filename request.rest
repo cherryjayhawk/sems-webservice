@@ -1,0 +1,2 @@
+GET http://localhost:8000/api/history?area=AREA001&start_date=2023-12-01&end_date=2023-12-02
+content-type: application/json
